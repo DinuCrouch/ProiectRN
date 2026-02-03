@@ -148,7 +148,7 @@ def calculeaza_metrici_finale(model, history, X_test, y_test):
     plt.savefig(CALE_GRAFIC)
     print(f"--> Grafic performanță salvat: {CALE_GRAFIC}")
 
-    # GRAFIC 2: Confusion Matrix Vizuală
+    # GRAFIC 2: Confusion Matrix Vizuala
     plt.figure(figsize=(6, 5))
     # Folosim funcția din sklearn pentru a desena frumos
     disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=target_names)
