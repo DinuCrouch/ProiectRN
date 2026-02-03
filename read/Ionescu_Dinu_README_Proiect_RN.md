@@ -249,4 +249,13 @@ Demonstrează interfața Streamlit rulând cu modelul final, afișând temperatu
 
 Am dezvoltat un sistem SIA robust pentru protecția culturilor agricole. Prin combinarea unei Rețele Neurale capabile să învețe modele fizice (zi/noapte, vânt) cu o logică de calibrare în timp real (Bias Correction), am atins o precizie de sub 1°C, suficientă pentru automatizarea serelor.
 
+---
+
+## 11. Bibliografie
+
+1. Chollet, F. et al., "Keras: Deep Learning for humans", 2015. URL: https://keras.io/
+2. Streamlit Inc., "Streamlit Documentation - The fastest way to build and share data apps", 2024. URL: https://docs.streamlit.io/
+3. Benos, L. et al., "Machine Learning in Agriculture: A Comprehensive Updated Review", Sensors, 21(11), 3758, 2021. DOI: https://doi.org/10.3390/s21113758
+
+
 **Lecția principală:** Într-o problemă de regresie aplicată (meteo), calitatea datelor (Feature Engineering - Sin/Cos) și adaptarea la context (Bias Correction) sunt mai importante decât complexitatea brută a modelului.
